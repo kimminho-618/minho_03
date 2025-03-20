@@ -15,9 +15,8 @@
 - 드라이브
 - 컴퓨터 게임
 - 여행
-  
-![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)
-![image](https://github.com/user-attachments/assets/91606a51-d3c9-4306-9050-3b8ad194a399)
+
+  ![쿼카](https://github.com/user-attachments/assets/7a623edf-27eb-45b5-bb83-9aa70f936aa3)
 
 ![GitHub followers](https://img.shields.io/github/followers/Emmett6401?style=social)
-![image](https://github.com/user-attachments/assets/d1d8ddae-6b32-4d0f-95c5-dadb3c9a59cd)
+![image](https://github.com/user-attachments/assets/dfeb0edb-9a72-414c-8864-d0f4c58deb1a)
